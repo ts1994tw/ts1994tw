@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, React Hooks, GraphQL**
 
-- ⚡ Fun fact **TECH OTAKUS SAVE THE WORLD**
+- ⚡ **TECH OTAKUS SAVE THE WORLD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
