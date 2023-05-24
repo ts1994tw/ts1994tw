@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rakuten Taiwan**
 
-- 🌱 I’m currently learning **Typescript, Cypress, NextJs**
+- 🌱 I’m currently learning **Typescript, Cypress, NextJs, SEO solutions**
 
 - 🤝 I’m looking for help with **web developer**
 
