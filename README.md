@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@brh_rfe](https://medium.com/@brh_rfe)
 
-- 💬 Ask me about **React, React Hooks, GraphQL**
+- 💬 Ask me about **React, React Hooks, GraphQL, SEO issues**
 
 - ⚡ **TECH OTAKUS SAVE THE WORLD**
 
