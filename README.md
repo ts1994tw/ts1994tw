@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boren</h1>
 <h3 align="center">frontend developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **Rakuten Taiwan**
+- 🔭 I’m currently working on **Rakuten Taiwan Ichiba**
 
 - 🌱 I’m currently learning **Typescript, NextJs, Cypress, SEO, Core Web Vitals optimizations**
 
