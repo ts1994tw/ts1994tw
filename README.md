@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boren</h1>
-<h3 align="center">frontend engineer from Taiwan</h3>
+<h3 align="center">frontend developer from Taiwan</h3>
 
 - 🔭 I’m currently working on **Rakuten Taiwan Ichiba**
 
