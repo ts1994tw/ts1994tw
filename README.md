@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rakuten Taiwan Ichiba**
 
-- 🌱 I’m currently learning **Typescript, NextJs, Cypress, SEO, Core Web Vitals optimizations**
+- 🌱 I’m currently learning **Typescript, NextJs, Cypress, SEO solutions, Core Web Vitals optimizations**
 
 - 🤝 I’m looking for help with **web developer**
 
