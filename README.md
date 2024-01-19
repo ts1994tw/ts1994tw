@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boren</h1>
+<h1 align="center">Hi 👋, I'm Boren / ボーレン　</h1>
 <h3 align="center">frontend developer from Taiwan</h3>
 
 - 🔭 I’m currently working on **MoneyForward**
